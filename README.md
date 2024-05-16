@@ -3,6 +3,7 @@
 Welcome to our AI-powered Tetris project! This repository houses the codebase for our innovative Tetris player, driven by advanced artificial intelligence algorithms.
 
 ## Overview
+![2024-05-16-11-42-41](https://github.com/OmarGaafar1/Tetris-AI-GeneticAlgorithm/assets/92587188/ade101fd-9dfb-4a8e-a707-7b853512a15f)
 
 Our AI player offers seamless, endless gameplay without any losses. Leveraging meticulous training and algorithm refinement, it has achieved exceptional results, surpassing 10 million points and clearing over 215,000 lines.
 
@@ -27,7 +28,4 @@ To get started with our Tetris project:
 
 Contributions to enhance our Tetris project are welcome! Feel free to submit pull requests or open issues for any improvements or suggestions.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
