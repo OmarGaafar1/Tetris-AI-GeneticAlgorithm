@@ -5,7 +5,7 @@ Welcome to our AI-powered Tetris project! This repository houses the codebase fo
 ## Overview
 <img src="https://github.com/OmarGaafar1/Tetris-AI-GeneticAlgorithm/assets/92587188/ade101fd-9dfb-4a8e-a707-7b853512a15f)"  style="object-fit: center;">
 
-![Alt Text](Tetris Overview.gif)
+![Alt Text](https://github.com/OmarGaafar1/Tetris-AI-GeneticAlgorithm/blob/main/Tetris%20Overview.gif)
 
 Our AI player offers seamless, endless gameplay without any losses. Leveraging meticulous training and algorithm refinement, it has achieved exceptional results, surpassing 10 million points and clearing over 215,000 lines.
 
